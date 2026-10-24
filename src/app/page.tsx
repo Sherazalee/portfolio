@@ -5,11 +5,11 @@ import { useState, type FormEvent } from "react";
 
 const PROFILE = {
   name: "Sheraz Ali",
-  email: "your-email@example.com",
+  email: "Sheerazalim2001@gmail.com",
   location: "Sargodha, Pakistan",
-  website: "https://ghulamaliseo.com",
+  website: "Sheerazalim2001@gmail.com",
   // Put the uploaded photo in /public with this exact filename.
-  photo: "/Sheeraz(1).jpg",
+  photo: "/Sheeraz.jpg",
 };
 
 const navItems = [
